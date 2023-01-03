@@ -48,7 +48,8 @@ The related scores of the six machine learning models are below:
   - Recall: 0.87
   - F1: 0.93
 
-![Screen Shot 2023-01-02 at 5 37 22 PM](https://user-images.githubusercontent.com/111788394/210282427-112d68b1-25af-4ffc-9594-7947fada515c.png)
+<img width="755" alt="Screen Shot 2023-01-03 at 11 39 44 AM" src="https://user-images.githubusercontent.com/111788394/210401051-5f6e7553-6410-4cf9-8fb2-2978a746c039.png">
+
 
 ### Easy Ensemble AdaBoost Classifier Scores:
   - Balanced accuracy score: 0.931,
@@ -56,7 +57,8 @@ The related scores of the six machine learning models are below:
   - Recall: 0.94
   - F1: 0.97
 
-![Screen Shot 2023-01-02 at 5 39 38 PM](https://user-images.githubusercontent.com/111788394/210282532-7fa3cfba-c9a3-43f4-9535-a6cf27e4c3f5.png)
+<img width="724" alt="Screen Shot 2023-01-03 at 11 40 57 AM" src="https://user-images.githubusercontent.com/111788394/210401156-323e5709-e9ec-4ee8-b20d-55b3af4fee16.png">
+
 
 ## Summary
 
