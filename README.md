@@ -12,7 +12,8 @@ The related scores of the six machine learning models are below:
   - Recall: 0.61
   - F1: 0.75
   
-![Screen Shot 2023-01-02 at 5 23 02 PM](https://user-images.githubusercontent.com/111788394/210281756-2055fed8-b14d-4921-9d9c-7e52421c25e1.png)- 
+  <img width="770" alt="Screen Shot 2023-01-03 at 11 35 19 AM" src="https://user-images.githubusercontent.com/111788394/210400161-a419c66d-6254-49e4-b5e6-f9839fa02e65.png">
+
 
 ### Smooth Oversampling Scores:
   - Balanced accuracy score: 0.662,
@@ -20,7 +21,8 @@ The related scores of the six machine learning models are below:
   - Recall: 0.69
   - F1: 0.81
  
-![Screen Shot 2023-01-02 at 5 27 29 PM](https://user-images.githubusercontent.com/111788394/210281979-07f61edf-f000-47b1-b6e3-551700b1d39c.png)
+<img width="768" alt="Screen Shot 2023-01-03 at 11 36 30 AM" src="https://user-images.githubusercontent.com/111788394/210400390-04493ef2-d2a1-4d49-8b26-b6af9e465432.png">
+
 
 ### Undersampling Scores:
   - Balanced accuracy score: 0.544,
@@ -28,7 +30,8 @@ The related scores of the six machine learning models are below:
   - Recall: 0.40
   - F1: 0.56
  
-![Screen Shot 2023-01-02 at 5 31 05 PM](https://user-images.githubusercontent.com/111788394/210282119-6b3c2146-f05b-4c9f-ac9f-1703de982549.png)
+<img width="752" alt="Screen Shot 2023-01-03 at 11 37 13 AM" src="https://user-images.githubusercontent.com/111788394/210400502-bfa6a078-9ddf-4846-9a55-2c08ebf6b0ae.png">
+
 
 ### Combination (Over and Under) Sampling Scores:
   - Balanced accuracy score: 0.644,
@@ -36,7 +39,8 @@ The related scores of the six machine learning models are below:
   - Recall: 0.57
   - F1: 0.72
 
-![Screen Shot 2023-01-02 at 5 35 04 PM](https://user-images.githubusercontent.com/111788394/210282303-8b4e9f7b-3b4d-4a7c-94eb-c1258e143c87.png)
+<img width="748" alt="Screen Shot 2023-01-03 at 11 37 53 AM" src="https://user-images.githubusercontent.com/111788394/210400714-5e6e34ed-aebf-425e-8f06-64237c9990b0.png">
+
 
 ### Balanced Random Forest Classifier Scores:
   - Balanced accuracy score: 0.788,
