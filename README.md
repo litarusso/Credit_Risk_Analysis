@@ -56,11 +56,11 @@ The related scores of the six machine learning models are below:
 
 ## Summary
 
-We have compared Naive Random Oversampling and Smote Oversampling scores and we have found that balanced accuracy score of Naive Random Oversampling method is higher. This fact shows that the first logistic regression model was better in terms of balanced accuracy. In Smote Oversampling method, we have found a higher recall score. This means a higher percentage of the correct positive predictions relative to the actual positives was obtained. Then when we compared F1 score to Smote Oversampling score, the Smote Oversampling score is closer to 1.
+We compared Naive Random Oversampling and Smote Oversampling scores and we found that balanced accuracy score of Naive Random Oversampling method is higher. This fact shows that the first logistic regression model was better in terms of balanced accuracy. In Smote Oversampling method, we have found a higher recall score. This means a higher percentage of the correct positive predictions relative to the actual positives was obtained. Then when we compared F1 score to Smote Oversampling score, the Smote Oversampling score is closer to 1.
 
 When we compared Undersampling algorith to Naive Random Oversampling and Smote Oversampling, we found that balanced accuracy, recall and F1 scores are lower than both oversampling methods. We have also compared Combination methods with oversampling methods, we find that Combination method gives a lower score. We can conclude that the Naive Random Oversampling method is the most effective within the methods that we have compared. 
 
-When we compare two ensemble algorithms (Balaced Random Forest Classifier and Easy Ensemble AdaBoost Classifier), the latter one has a higher value of balaced accuracy score, a higher recall score and an F1 score which is closer to 1. We can conclude this method has the better performance. 
+When we compare two ensemble algorithms (Balaced Random Forest Classifier and Easy Ensemble AdaBoost Classifier), the latter one has a higher value of balaced accuracy score (0.931), a higher recall score (0.94) and an F1 score (0.97) which is closer to 1. We can conclude this method has the better performance. 
 
 
 
